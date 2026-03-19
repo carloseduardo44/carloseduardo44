@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">🛰️ SOBRE MIM:<br><br>Estudante de T.I no SENAI - Pres. Prudente 🖥️<br><br>Foco em redes e S.O<br><br>Estudo Java nas horas vagas 😄<br><br>Estudante de JS e NODE.JS pelo SENAI<br><br>Entusiasta de Linux 🐧(Uso Artix 😅)<br><br>Cursando primeiro ano no curso técnico no SENAI<br><br>Estou no segundo ano do E.M<br><br>Apreciador da tecnologia 🤓<br><br>𝐂𝐨𝐧𝐭𝐚𝐭𝐨 𝐚  𝐛𝐚𝐢𝐱𝐨 🛰️</p>
+<p align="left">🛰️ SOBRE MIM:<br><br>Estudante de T.I no SENAI - Pres. Prudente 🖥️<br><br>Foco em redes e S.O<br><br>Estudo Java nas horas vagas 😄<br><br>Estudante de JS e NODE.JS pelo SENAI<br><br>Entusiasta de Linux 🐧(Uso Artix 😅)<br><br>Cursando primeiro ano no curso técnico no SENAI<br><br>Estou no segundo ano do E.M<br><br>Apreciador da tecnologia 🤓<br><br>𝗖𝗼𝗻𝘁𝗮𝘁𝗼𝘀 𝗻𝗮 𝗕𝗶𝗼𝗴𝗿𝗮𝗳𝗶𝗮 🛰️</p>
 
 ###
 
@@ -32,4 +32,4 @@
 </div>
 
 ###
-![Snake animation](https://raw.githubusercontent.com/carloseduardo44/carloseduardo44/output/github-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/carloseduardo44/carloseduardo44/output/github-snake-dark.svg?palette=github-dark)
