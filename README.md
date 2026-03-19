@@ -32,3 +32,4 @@
 </div>
 
 ###
+![Snake animation](https://raw.githubusercontent.com/carloseduardo44/carloseduardo44/output/github-snake.svg)
