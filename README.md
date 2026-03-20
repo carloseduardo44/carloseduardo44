@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">🛰️ SOBRE MIM:<br><br>Estudante de T.I no SENAI - Pres. Prudente 🖥️<br><br>Foco em redes e S.O<br><br>Estudo Java nas horas vagas 😄<br><br>Estudante de JS e NODE.JS pelo SENAI<br><br>Entusiasta de Linux 🐧(Uso Artix 😅)<br><br>Cursando primeiro ano no curso técnico no SENAI<br><br>Estou no segundo ano do E.M<br><br>Apreciador da tecnologia 🤓<br><br>𝗖𝗼𝗻𝘁𝗮𝘁𝗼𝘀 𝗻𝗮 𝗕𝗶𝗼𝗴𝗿𝗮𝗳𝗶𝗮 🛰️</p>
+<p align="left">🛰️ SOBRE MIM:<br><br>Estudante de T.I no SENAI - Pres. Prudente 🖥️<br><br>Foco em redes e S.O<br><br>Estudo Java nas horas vagas 😄<br><br>Estudante de JS e NODE.JS pelo SENAI<br><br>Entusiasta de Linux 🐧(Uso Ubuntu e variantes😅)<br><br>Cursando primeiro ano no curso técnico no SENAI<br><br>Estou no segundo ano do E.M<br><br>Apreciador da tecnologia 🤓<br><br>𝗖𝗼𝗻𝘁𝗮𝘁𝗼𝘀 𝗻𝗮 𝗕𝗶𝗼𝗴𝗿𝗮𝗳𝗶𝗮 🛰️</p>
 
 ###
 
