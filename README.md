@@ -22,10 +22,12 @@
 
 ###
 
-<p align="left">🛰️ SOBRE MIM:<br><br>Estudante de T.I no SENAI - Pres. Prudente 🖥️<br><br>Foco em redes e S.O<br><br>Estudo Java nas horas vagas 😄<br><br>Estudante de JS e NODE.JS pelo SENAI<br><br>Entusiasta de Linux 🐧(Uso Ubuntu e variantes😅)<br><br>Cursando primeiro ano no curso técnico no SENAI<br><br>Estou no segundo ano do E.M<br><br>Apreciador da tecnologia 🤓<br><br>𝗖𝗼𝗻𝘁𝗮𝘁𝗼𝘀 𝗻𝗮 𝗕𝗶𝗼𝗴𝗿𝗮𝗳𝗶𝗮 🛰️</p>
+<p align="left">🛰️ SOBRE MIM:<br>Criador do <strong>Nerd Space</strong><br><br><br>Estudante de T.I no SENAI - Pres. Prudente 🖥️<br><br>Foco em redes e S.O<br><br>Estudo Java nas horas vagas 😄<br><br>Estudante de JS e NODE.JS pelo SENAI<br><br>Entusiasta de Linux 🐧(Uso Ubuntu e variantes😅)<br><br>Cursando primeiro ano no curso técnico no SENAI<br><br>Estou no segundo ano do E.M<br><br>Apreciador da tecnologia 🤓<br><br>𝗖𝗼𝗻𝘁𝗮𝘁𝗼𝘀 𝗻𝗮 𝗕𝗶𝗼𝗴𝗿𝗮𝗳𝗶𝗮 🛰️</p>
 
 ###
-
+<p>LINKS:</p>
+<p>nerd-space.netlify.app</p>
+<p>fxjavascript.netlify.app</p>
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
