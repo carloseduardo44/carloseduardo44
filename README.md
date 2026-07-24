@@ -34,7 +34,7 @@
 
 ## Experiências:
 
-# Grupo Petrópolis - Adiministrativo (Gerencimento de Sistemas) - Jovem Aprendiz - Inicio 20/03/2025 - Termino - 15/10/2025
+ Grupo Petrópolis - Gerencimento de Sistemas - Jovem Aprendiz - Inicio 20/03/2025 - Termino - 15/10/2025
 
 ## Certificações:
               
