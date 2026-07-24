@@ -22,10 +22,14 @@
 
 ###
 
-<p align="left">🛰️ SOBRE MIM: #                                           curriculo
-## - Carlos Eduardo Azevedo
+<p align="left">🛰️ SOBRE MIM:  
+
+  ## - Carlos Eduardo Azevedo
+
 #  - 16 anos de idade
+
 #  - Estudante do SENAI
+
 ### contato - carlos.e.martins6@edu.senai.br / GitHub - carloseduardo44
 
 ## Experiências:
@@ -34,37 +38,39 @@
 
 ## Certificações:
               
-              - Adiministração em Sistemas de Service Now - 32 Horas(SENAI);
+- Adiministração em Sistemas de Service Now - 32 Horas(SENAI);
               
-              - Excel Basico - 20 Horas (SENAI);
+- Excel Basico - 20 Horas (SENAI);
               
-              - FluêncIA - Fundamentos da Inteligência Artificial - 8 Horas (SENAI);
+- FluêncIA - Fundamentos da Inteligência Artificial - 8 Horas (SENAI);
 
-              - Ética na Inteligência Artificial - 4 Horas (SENAI);
+- Ética na Inteligência Artificial - 4 Horas (SENAI);
 
-              - Por dentro da segurança Cybernetica - 4 Horas (SENAI);
+- Por dentro da segurança Cybernetica - 4 Horas (SENAI);
 
-              -Segurança no trabalho - 14 Horas (SENAI);
+-Segurança no trabalho - 14 Horas (SENAI);
 
 ## Graduação: 
-           - 1° ano SENAI - Desenvolvimento de Sistemas (DEV)
+           
+- 1° ano SENAI - Desenvolvimento de Sistemas (DEV)
            - 2° EM Sesi
 
 ## Habilidades: 
 
 # idiomas: 
-
-         - Inglês(médio)
-         - Italiano(básico)
+  
+- Inglês(médio)
+- Italiano(básico)
 
 # Área da tecnologia: 
 
-        - Experiência em Linux/Unix 
-        - Python (iniciante);
-        - Java Script (Intermediario);
-        - C# (iniciante);
-        - Redes(intermediario);
-        - Sistemas Operacionais (avançado);
+- Experiência em Linux/Unix 
+- Python (iniciante);
+- Java Script (Intermediario);
+- C# (iniciante);
+- Redes(intermediario);
+- Sistemas Operacionais (avançado);
+
 ## Trabalhos - DEV:
 - Funções JS [Funções JS](https://fxjavascript.netlify.app)
 ###
