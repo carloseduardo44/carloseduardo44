@@ -30,7 +30,7 @@
 
 #  - Estudante do SENAI
 
-### contato - carlos.e.martins6@edu.senai.br / GitHub - carloseduardo44
+### contato - carlos.eduuardo12098@gmail.com / GitHub - carloseduardo44
 
 ## Experiências:
 
