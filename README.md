@@ -22,8 +22,51 @@
 
 ###
 
-<p align="left">🛰️ SOBRE MIM:<br><br>Estudante de T.I no SENAI - Pres. Prudente 🖥️<br><br>Foco em redes e S.O<br><br>Estudante de JS e NODE.JS pelo SENAI<br><br>Entusiasta de Linux 🐧<br><br>Cursando primeiro ano no curso técnico no SENAI<br><br>Estou no segundo ano do E.M<br><br>Apreciador da tecnologia <br><br>𝗖𝗼𝗻𝘁𝗮𝘁𝗼𝘀 𝗻𝗮 𝗕𝗶𝗼𝗴𝗿𝗮𝗳𝗶𝗮 🛰️</p>
+<p align="left">🛰️ SOBRE MIM: #                                           curriculo
+## - Carlos Eduardo Azevedo
+#  - 16 anos de idade
+#  - Estudante do SENAI
+### contato - carlos.e.martins6@edu.senai.br / GitHub - carloseduardo44
 
+## Experiências:
+
+# Grupo Petrópolis - Adiministrativo (Gerencimento de Sistemas) - Jovem Aprendiz - Inicio 20/03/2025 - Termino - 15/10/2025
+
+## Certificações:
+              
+              - Adiministração em Sistemas de Service Now - 32 Horas(SENAI);
+              
+              - Excel Basico - 20 Horas (SENAI);
+              
+              - FluêncIA - Fundamentos da Inteligência Artificial - 8 Horas (SENAI);
+
+              - Ética na Inteligência Artificial - 4 Horas (SENAI);
+
+              - Por dentro da segurança Cybernetica - 4 Horas (SENAI);
+
+              -Segurança no trabalho - 14 Horas (SENAI);
+
+## Graduação: 
+           - 1° ano SENAI - Desenvolvimento de Sistemas (DEV)
+           - 2° EM Sesi
+
+## Habilidades: 
+
+# idiomas: 
+
+         - Inglês(médio)
+         - Italiano(básico)
+
+# Área da tecnologia: 
+
+        - Experiência em Linux/Unix 
+        - Python (iniciante);
+        - Java Script (Intermediario);
+        - C# (iniciante);
+        - Redes(intermediario);
+        - Sistemas Operacionais (avançado);
+## Trabalhos - DEV:
+- Funções JS [Funções JS](https://fxjavascript.netlify.app)
 ###
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
